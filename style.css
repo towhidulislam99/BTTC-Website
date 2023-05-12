@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*Basic CSS End*/
+.headsection{
+    
+}
+.headtop{
+    background-color: aquamarine;
+    color: black;
+         }
+.headtop h1{
+    padding: 15px;
+    margin-left: 100px;
+    font-family: sans-serif;
+    color: azure;
+  
+           }
+.headtop h1 img{
+    width: 30px;
+    margin-left: 10px;
+}
+.menubar{
+    float:left;
+}
